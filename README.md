@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a *(mostly)* front-end focused developper based in France.
+I'm *(mostly)* a front-end focused developper based in France.
 
 #### What I use
 
